@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourav7781
-- 👀 I’m interested in data analysis and machine learning. All about Data Science.
-- 🌱 I’m currently learning advanced Big Data Analytics & Astro ML techniques.
+- 👀 I’m interested in Data analysis and Machine Learning. All about Data Science.
+- 🌱 I’m currently learning Advanced Big Data Analytics & Astro ML techniques.
 - 💞️ I’m looking to collaborate on open-source data visualization projects, Every projects related to Data Science.
 - 📫 How to reach me: You can reach me via email souravsaha.cal@gmail.com
 - 😄 Pronouns: He/him
